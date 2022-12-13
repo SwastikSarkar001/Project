@@ -73,7 +73,7 @@
 			<li class="sideopt"><a href="#Account-Management"><b></b><b></b><span class="icon"><ion-icon name="people-outline"></ion-icon></span><div class="sideopt-text"> Accounts </div></a></li>
         </ul>
 		<?php
-			}
+			 }
 		?>
     </div>
     <div id="main-content">
